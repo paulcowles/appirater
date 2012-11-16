@@ -38,7 +38,6 @@
 #import <SystemConfiguration/SCNetworkReachability.h>
 #include <netinet/in.h>
 
-#import "ScavengerHuntAppDelegate.h"
 
 NSString *const kAppiraterFirstUseDate				= @"kAppiraterFirstUseDate";
 NSString *const kAppiraterUseCount					= @"kAppiraterUseCount";
