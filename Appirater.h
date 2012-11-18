@@ -46,7 +46,9 @@ extern NSString *const kAppiraterDeclinedToRate;
 /*
  Place your Apple generated software id here.
  */
-//#define APPIRATER_APP_ID				493544197
+
+// Play Toronto
+#define kAppleStoreApplicationID        493544197
 
 /*
  Your app's name.
